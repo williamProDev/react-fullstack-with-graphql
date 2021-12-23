@@ -1,17 +1,10 @@
-<h1 align="center"><strong>Fullstack GraphQL Boilerplates for React &amp Node.js</strong></h1>
-
-<br />
-
-![](https://imgur.com/ousyQaC.png)
+<h2 align="center">React Full Stack with graphql</h2>
 
 <div align="center"><strong>Bootstrap your fullstack GraphQL app within seconds</strong></div>
 <div align="center">GraphQL boilerplates provide the perfect foundation for your GraphQL server, no matter if you're just getting started with GraphQL or aim to build a fully-fledged application.</div>
 
 <br />
 
-## Deprecation note
-
-This repository has been deprecated and is currently unmaintained. You can find up-to-date examples for building GraphQL servers with a database [here](https://github.com/prisma/prisma-examples/).
 
 ## Features
 
